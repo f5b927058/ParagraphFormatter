@@ -1,0 +1,12 @@
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\bin\Debug\ParagraphFormatter.exe.config
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\bin\Debug\ParagraphFormatter.exe
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\bin\Debug\ParagraphFormatter.pdb
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\bin\Debug\ParagraphFormatter.xml
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\obj\Debug\ParagraphFormatter.vbprojAssemblyReference.cache
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\obj\Debug\ParagraphFormatter.Form1.resources
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\obj\Debug\ParagraphFormatter.Resources.resources
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\obj\Debug\ParagraphFormatter.vbproj.GenerateResource.cache
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\obj\Debug\ParagraphFormatter.vbproj.CoreCompileInputs.cache
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\obj\Debug\ParagraphFormatter.exe
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\obj\Debug\ParagraphFormatter.xml
+C:\Users\f5b92\source\repos\ParagraphFormatter\ParagraphFormatter\obj\Debug\ParagraphFormatter.pdb
